@@ -1,5 +1,5 @@
 # Bike-Demonstrator
-In this study project I combined multiple hardware components using ANT+ and created a immersive and responsive virtual scenario in UNITY.
+In this study project I combined multiple hardware components using ANT+ and created an immersive and responsive virtual scenario in UNITY.
 
 ## What did I do?
 I connected indoor cycling trainer (https://www.garmin.com/en-US/c/sports-fitness/indoor-trainers/), air fan (https://eu.wahoofitness.com/devices/indoor-cycling/accessories/kickr-headwind-buy-eu) and few other components. The data between all the components are transmitted using ANT+ protocol, which is similar technology to Bluetooth. I also used some free assets from Unity Store to create a basic virtual scenario - track for the bike with hills and curves.
