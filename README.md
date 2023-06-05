@@ -17,6 +17,5 @@ Those features provide high level of haptic feedback and immersivity.
 This project was first step on a way to create a fully immersive and responsive virtual reality CAVE scenario. The main goal was to simply connect all the components and make sure they work well together. People from TUC then continued to develop this system further, you can read about the result here: https://www.tu-chemnitz.de/tu/pressestelle/aktuell/10594/en
 
 ### Depencencies:
-According to the Licence, redistribution of source code containing the ANT+ Network Key is prohibited.
-- ANT PC SDK - download from https://www.thisisant.com/developer/resources/downloads after registration
-- place the C# .NET API libraries into /Assets/Scripts
+According to the Licence, redistribution of source code containing the ANT+ Network Key is prohibited, therefore:
+- get "ANT PC SDK" - download from https://www.thisisant.com/developer/resources/downloads after registration. Place the C# .NET API libraries into /Assets/Scripts
